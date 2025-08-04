@@ -1,3 +1,4 @@
+--logistics management table creation using SQL--
 CREATE TABLE customers (
     Customer_id INT PRIMARY KEY,
     Customer_name VARCHAR(100) NOT NULL,
